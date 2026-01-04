@@ -1,5 +1,17 @@
-"scripts": {
-  "start": "node src/app.js",
-  "test": "jest"
+{
+  "name": "ia-copilot",
+  "version": "1.0.0",
+  "description": "Projeto exemplo com uso de IA (Copilot Chat)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
+  "author": "Matheus Yoshihiro Nishiyama",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
+
 
